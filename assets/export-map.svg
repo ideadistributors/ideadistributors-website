@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#1d63ff"/><stop offset="1" stop-color="#12b8a6"/></linearGradient></defs>
+<rect width="760" height="560" rx="24" fill="#f4f8fc"/>
+<path d="M122 110c56-46 166-56 220-5 25 24 22 61 8 82-18 27-50 25-69 49-25 31-9 72-42 93-27 17-82 7-106-26-21-29-7-65-25-88-22-27-35-70 14-105Z" fill="#b8cce0"/>
+<path d="M438 245c39-23 105-9 126 29 19 34-7 61 7 91 14 31 57 43 50 82-9 49-73 77-115 55-39-21-29-61-53-88-24-27-56-25-61-62-6-41 18-90 46-107Z" fill="#9fb8d1"/>
+<circle cx="252" cy="210" r="13" fill="#1d63ff" stroke="#fff" stroke-width="5"/>
+<circle cx="480" cy="340" r="13" fill="#12b8a6" stroke="#fff" stroke-width="5"/>
+<circle cx="510" cy="395" r="13" fill="#f3b73e" stroke="#fff" stroke-width="5"/>
+<circle cx="550" cy="458" r="13" fill="#1d63ff" stroke="#fff" stroke-width="5"/>
+<path d="M265 210C360 180 430 220 480 340M265 210C385 210 470 290 510 395M265 210C410 215 525 330 550 458" fill="none" stroke="url(#g)" stroke-width="5" stroke-dasharray="12 10"/>
+<text x="132" y="83" font-family="Arial" font-size="16" font-weight="700" letter-spacing="3" fill="#071d34">UNITED STATES</text>
+<text x="490" y="525" font-family="Arial" font-size="16" font-weight="700" letter-spacing="3" fill="#071d34">LATIN AMERICA</text>
+</svg>
