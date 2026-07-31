@@ -85,10 +85,10 @@ button,input,textarea{font:inherit}
 .category-card:nth-child(4){grid-column:2/span 2}.category-card:nth-child(5){grid-column:4/span 2}
 .category-card:hover{transform:translateY(-7px);box-shadow:var(--shadow-soft)}
 .category-featured{border-color:rgba(35,163,33,.35);box-shadow:0 15px 40px rgba(35,163,33,.08)}
-.category-image{height:235px;overflow:hidden;background:#dfe8f0}
-.category-image img{width:100%;height:100%;object-fit:cover;transition:transform .45s}
-.category-card:hover .category-image img{transform:scale(1.035)}
-.category-body{position:relative;min-height:248px;padding:25px 26px 27px}
+.category-image{height:245px;overflow:hidden;background:#e9eef3}
+.category-image img{width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .45s}
+.category-card:hover .category-image img{transform:scale(1.018)}
+.category-body{position:relative;min-height:232px;padding:24px 26px 26px}
 .category-top{display:flex;align-items:center;justify-content:space-between}
 .category-number{display:block;color:#9aaabd;font-size:.76rem;font-weight:900;letter-spacing:.08em}
 .specialty{padding:5px 9px;border-radius:999px;background:#eaf8e9;color:#188318;font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.08em}
@@ -156,6 +156,6 @@ footer{padding:64px 0;background:#051426;color:#aebed0}.footer-grid{display:grid
   .capability-strip{grid-template-columns:1fr 1fr}.capability-strip span:nth-child(2){border-right:0}.capability-strip span:nth-child(-n+2){border-bottom:1px solid var(--line)}
   .trust-items{justify-content:center;text-align:center}.section{padding:78px 0}.section-heading,.contact-layout{align-items:flex-start;flex-direction:column}
   .image-frame img{height:420px}.experience-card{right:0;bottom:18px;max-width:235px}
-  .category-grid,.value-grid,.quote-form,.footer-grid{grid-template-columns:1fr}.category-image{height:225px}.quote-panel{padding:29px}
+  .category-grid,.value-grid,.quote-form,.footer-grid{grid-template-columns:1fr}.category-image{height:235px}.quote-panel{padding:29px}
   .market-visual img{height:390px}
 }
