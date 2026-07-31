@@ -37,7 +37,7 @@ const translations = {
     categoriesEyebrow:"CATEGORÍAS DE PRODUCTOS",categoriesTitle:"Bienes de consumo de EE. UU. seleccionados para oportunidades mayoristas.",
     categoriesIntro:"Nos especializamos en Cuidado Personal y abastecemos una gama más amplia de bienes de consumo. La disponibilidad, marcas, cantidades mínimas y elegibilidad de exportación varían según la solicitud y el destino.",
     specialty:"Especialidad",cat1Title:"Cuidado Personal",cat1Text:"Productos de higiene, aseo, belleza, baño, cuerpo y cuidado personal diario.",
-    cat2Title:"Mercancía General",cat2Text:"Oportunidades adicionales de productos de consumo evaluadas según demanda y viabilidad comercial.",
+    cat2Title:"Bienes de Consumo",cat2Text:"Productos cotidianos cuidadosamente seleccionados de distintas categorías, abastecidos según calidad, demanda y oportunidad comercial.",
     cat3Title:"Productos para el Hogar",cat3Text:"Limpieza, lavandería, almacenamiento y artículos prácticos para el hogar.",
     cat4Title:"Cocina y Comedor",cat4Text:"Utensilios, almacenamiento de alimentos, vajilla y accesorios prácticos de cocina.",
     cat5Title:"Productos para Bebé",cat5Text:"Productos seleccionados para baño, cuidado, higiene y consumo familiar.",
