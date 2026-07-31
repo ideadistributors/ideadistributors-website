@@ -20,10 +20,10 @@ mainNav?.querySelectorAll("a").forEach(link => {
 const translations = {
   es: {
     topbar:"Abastecimiento mayorista y distribución de exportación desde EE. UU.",
-    navCompany:"Empresa",navCategories:"Categorías",navMarkets:"Mercados",navProcess:"Cómo funciona",navContact:"Contacto",navQuote:"Solicitar cotización",
+    navCompany:"Empresa",navCategories:"Categorías",navMarkets:"Mercados",navProcess:"Cómo funciona",navContact:"Contacto",navQuote:"Solicitar cotización mayorista",
     heroBadge:"Abastecimiento mayorista desde Estados Unidos",heroTitle1:"Su socio confiable en EE. UU.",heroTitle2:"para mayoreo y exportación",
     heroLead:"IDEA Distributors ayuda a mayoristas, distribuidores, minoristas e importadores a obtener productos de calidad desde Estados Unidos con logística confiable, precios competitivos y apoyo personalizado para la exportación.",
-    heroCta:"Solicitar cotización",heroSecondary:"Conocer IDEA",proof1:"Con sede en Florida",proof2:"Enfoque mayorista",proof3:"Mercados de exportación",
+    heroCta:"Solicitar cotización mayorista",heroSecondary:"Conocer IDEA",proof1:"Con sede en Florida",proof2:"Enfoque mayorista",proof3:"Mercados de exportación",
     float1Kicker:"Abastecimiento",float1Title:"Red de proveedores en EE. UU.",float2Kicker:"Enfoque exportador",float2Title:"Latinoamérica y el Caribe",
     strip1:"Abastecimiento en EE. UU.",strip2:"Pedidos mayoristas",strip3:"Coordinación de exportación",strip4:"Atención ágil",
     companyEyebrow:"SOBRE IDEA DISTRIBUTORS",companyTitle:"Un socio práctico para el comercio internacional.",
